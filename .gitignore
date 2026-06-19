@@ -60,3 +60,7 @@ chromadb/
 # Logs
 *.log
 logs/
+
+# Removing vector data
+preprocessed_db/
+.claude/
